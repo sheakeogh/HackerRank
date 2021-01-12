@@ -1,2 +1,2 @@
 # HackerRank
-Java Questions from HackerRank
+Solutions for Java questions from HackerRank.
